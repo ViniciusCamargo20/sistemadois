@@ -6,3 +6,5 @@ Segundo repositório - atividade DevOps - Leandro Escobar
 agregando mais conteúdo para a nova branch "versao01"
 
 agregando mais conteúdo para a nova branch "versao02"
+
+agregando mais conteúdo para a nova branch "versao03"
