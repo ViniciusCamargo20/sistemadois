@@ -1,2 +1,2 @@
 # sistemadois
-Segundo repositório - atv DevOps - Leandro Escobar
+Segundo repositório - atividade DevOps - Leandro Escobar
